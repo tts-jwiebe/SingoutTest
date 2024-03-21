@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App-Registrierung: SignoutTest, Mandant: TeleTrain Software GmbH (tele-train.de - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Neues Profil",
+    "Projects": [
+      {
+        "Name": "SingoutTest\\SingoutTest.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "MainApp\\MainApp.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]
